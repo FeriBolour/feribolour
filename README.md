@@ -2,7 +2,6 @@
 - 👀 I’m interested in Machine Learning and Computer Vision.
 - 🌱 I am currently a AI Engineer at G-P.
 - 📫 How to reach me: farshad.bolouri@gmail.com
-- LinkedIn: https://www.linkedin.com/in/farshad-bolouri/
 
 <!---
 FeriBolour/FeriBolour is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
