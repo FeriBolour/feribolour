@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @FeriBolour
-- 👀 I’m interested in Computer Vision, Machine Learning, and Robotic Perception
-- 🌱 I am currently a Graduate Research Assistant at Applied Vision Lab, Texas Tech University.
+- 👀 I’m interested in Machine Learning and Computer Vision.
+- 🌱 I am currently a AI Engineer at G-P.
 - 📫 How to reach me: farshad.bolouri@gmail.com
 - LinkedIn: https://www.linkedin.com/in/farshad-bolouri/
 
