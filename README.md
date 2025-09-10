@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @FeriBolour
 - 👀 I’m interested in Machine Learning and Computer Vision.
-- 🌱 I am currently an AI Engineer at G-P.
+- 🌱 I am currently an Machine Learning Scientist at G-P.
 - 📫 How to reach me: farshad.bolouri@gmail.com
 
 <!---
